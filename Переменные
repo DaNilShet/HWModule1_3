@@ -1,0 +1,8 @@
+homework = 12
+time = 1.5
+name = 'Python'
+time_for_one_work = time / homework
+
+print('Курс:', name, ',всего задач:', homework,
+      ',затрачено часов:', time, ',время на одну работу',
+      time_for_one_work, 'часа.')
